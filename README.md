@@ -1,2 +1,2 @@
-# quiz-application
+# quiz-culture
 python quiz application with tkinter
