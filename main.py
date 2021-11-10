@@ -42,7 +42,7 @@ def askQuestion():
 
 
 questions = []
-file = open("questions.txt", "r")
+file = open("preguntas.txt", "r")
 line = file.readline()
 while(line != ""):
     questionString = line
